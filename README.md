@@ -14,4 +14,5 @@ Steam 个人资料美化辅助工具是一款用 Python 编写的桌面应用程
 作者：FuSheng  
 Steam 主页：https://steamcommunity.com/id/FuShengSense/  
 Steam 指南页面：https://steamcommunity.com/sharedfiles/filedetails/?id=3410802985  
+视频教程：https://www.bilibili.com/video/BV1U5wUeyEPr/?share_source=copy_web&vd_source=206268e2b74b44603390b095eb84323a  
 期待本工具能助力你打造独具特色的 Steam 个人资料页面！若在使用过程中有任何疑问或建议，欢迎随时联系作者。
